@@ -11,7 +11,7 @@ run node cipher-tool.js
 - -s, --shift <int> 
 - -a, --action <encode/decode> 
 ### optional arguments:
-- -i, --input <path> an input file 
+- -i, --input \<path\> an input file 
 - -o, --output <path> an output file 
 
 ### Usage in console mode
