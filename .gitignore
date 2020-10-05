@@ -1,1 +1,3 @@
 /node_modules 
+/caesar-cipher-cli/test.txt
+/caesar-cipher-cli/out.txt

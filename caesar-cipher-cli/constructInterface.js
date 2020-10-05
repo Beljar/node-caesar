@@ -15,7 +15,6 @@ function constructInterface() {
       rl.resume();
     }
   });
-  rl.on("close", () => process.exit(1));
   rl.input.setRawMode(false);
   return rl;
 }

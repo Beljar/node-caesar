@@ -63,7 +63,7 @@ main().then(
   () => {
     console.log(`${args.action} success`);
     interface.close();
-    process.exit();
+    process.exit(0);
   },
   (err) => {
     console.error(`${args.action} failed \n${err}`);
